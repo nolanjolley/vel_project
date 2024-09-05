@@ -4,6 +4,9 @@
 Created on Tue Nov  8 14:37:22 2022
 
 @author: nolanjolley
+
+view the demo PLEASE: 
+https://drive.google.com/file/d/1aO3XGVloeSkYE9qz4G8ztH5Ztpsj8HgO/view
 """
 
 import csv
